@@ -37,6 +37,12 @@ Treatment  of null values and duplicates.
 Populating missing rows. 
 Typecasting performed on certain columns.
 
+https://github.com/namit-rai/NETFLIX-Data-Analysis/blob/main/netflix.py
+
+
+# Data Visualization
+
+
 
  # Tools Used
  Python and TABLEAU were utilized for data cleaning, analysis, and visualization
