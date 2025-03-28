@@ -41,7 +41,7 @@ https://github.com/namit-rai/NETFLIX-Data-Analysis/blob/main/netflix.py
 
 
 # Data Visualization
-
+https://github.com/namit-rai/NETFLIX-Data-Analysis/blob/main/netflix%20visualization.twbx
 
 
  # Tools Used
